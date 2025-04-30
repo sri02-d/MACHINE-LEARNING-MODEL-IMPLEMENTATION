@@ -51,6 +51,10 @@ Accuracy: ~98.5%
 
 High precision and recall for both spam and ham classes.
 
+![Image](https://github.com/user-attachments/assets/6edd475e-24a2-452b-94c3-e1185956661b)
+
+![Image](https://github.com/user-attachments/assets/a7a17c69-5428-41de-838f-709e0fdb5b53)
+
 The model correctly identified the majority of spam and ham messages, with very few false positives or false negatives.
 
 📌 Conclusion:
